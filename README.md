@@ -23,4 +23,4 @@ print(farfallino_transform("Hey sweetie, I love you!"))
 **Author**: Mirko Pizii  
 **Roles**: Python (+ Django and Flask) Developer | Machine Learning ~ Artificial Intelligence  
 **Website**: www.mirkopizii.com  
-**License**: GPLv3  
+**License**: WTFPL  
